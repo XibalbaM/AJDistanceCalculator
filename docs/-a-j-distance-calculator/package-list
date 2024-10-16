@@ -1,0 +1,13 @@
+$dokka.format:html-v1
+$dokka.linkExtension:html
+$dokka.location:fr.xibalba.aj.distanceCalculator////PointingToDeclaration/-a-j-distance-calculator/fr.xibalba.aj.distanceCalculator/index.html
+$dokka.location:fr.xibalba.aj.distanceCalculator//computeDistance/kotlin.collections.List[fr.xibalba.aj.distanceCalculator.Point]#/PointingToDeclaration/-a-j-distance-calculator/fr.xibalba.aj.distanceCalculator/compute-distance.html
+$dokka.location:fr.xibalba.aj.distanceCalculator//distanceTo/fr.xibalba.aj.distanceCalculator.Point#fr.xibalba.aj.distanceCalculator.Point/PointingToDeclaration/-a-j-distance-calculator/fr.xibalba.aj.distanceCalculator/distance-to.html
+$dokka.location:fr.xibalba.aj.distanceCalculator//haversine/#kotlin.Double/PointingToDeclaration/-a-j-distance-calculator/fr.xibalba.aj.distanceCalculator/haversine.html
+$dokka.location:fr.xibalba.aj.distanceCalculator/Point///PointingToDeclaration/-a-j-distance-calculator/fr.xibalba.aj.distanceCalculator/-point/index.html
+$dokka.location:fr.xibalba.aj.distanceCalculator/Point/Point/#kotlin.Double#kotlin.Double/PointingToDeclaration/-a-j-distance-calculator/fr.xibalba.aj.distanceCalculator/-point/-point.html
+$dokka.location:fr.xibalba.aj.distanceCalculator/Point/lat/#/PointingToDeclaration/-a-j-distance-calculator/fr.xibalba.aj.distanceCalculator/-point/lat.html
+$dokka.location:fr.xibalba.aj.distanceCalculator/Point/lon/#/PointingToDeclaration/-a-j-distance-calculator/fr.xibalba.aj.distanceCalculator/-point/lon.html
+$dokka.location:fr.xibalba.aj.distanceCalculator/Route///PointingToDeclaration/-a-j-distance-calculator/fr.xibalba.aj.distanceCalculator/-route/index.html
+fr.xibalba.aj.distanceCalculator
+

@@ -1,3 +1,7 @@
+import fr.xibalba.aj.distanceCalculator.Point
+import fr.xibalba.aj.distanceCalculator.computeDistance
+import fr.xibalba.aj.distanceCalculator.distanceTo
+import fr.xibalba.aj.distanceCalculator.haversine
 import kotlin.test.Test
 import kotlin.test.assertEquals
 

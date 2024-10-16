@@ -1,5 +1,6 @@
 plugins {
     kotlin("jvm") version "2.0.20"
+    id("org.jetbrains.dokka") version "1.9.20"
 }
 
 group = "fr.xibalba"
@@ -15,6 +16,9 @@ dependencies {
 
 tasks.test {
     useJUnitPlatform()
+}
+tasks.dokkaHtml {
+    outputDirectory.set(file("docs"))
 }
 kotlin {
     jvmToolchain(21)

@@ -1,3 +1,5 @@
+package fr.xibalba.aj.distanceCalculator
+
 import kotlin.math.*
 
 /**
